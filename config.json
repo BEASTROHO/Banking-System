@@ -1,0 +1,7 @@
+{
+  "db_host": "localhost",
+  "db_user": "root",
+  "db_password": "your_secure_password",
+  "db_name": "banking_db",
+  "secret_key": "your-secure-app-key"
+}
