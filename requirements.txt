@@ -1,0 +1,16 @@
+---
+
+
+```txt
+mysql-connector-python
+pycryptodome
+tk
+```
+
+> Tip: If you want to lock exact versions for real deployment:
+```bash
+pip freeze > requirements.txt
+```
+
+---
+
