@@ -1,6 +1,6 @@
 ---
 
-## 🏗️ `architecture.md` — System Design Overview
+## `architecture.md` — System Design Overview
 
 ```md
 # 🧠 Architecture Overview — Banking System App
@@ -60,4 +60,4 @@ This document describes the internal design and interaction flow of the Secure B
 [GUI Updates] ← [Balance / History ← Database]
 ```
 
----
+
